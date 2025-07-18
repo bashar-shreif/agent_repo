@@ -45,4 +45,10 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+    //adding one to many rlt
+    public function agents()
+    {
+        return $this->hasMany(Agent::class);
+    }
 }
