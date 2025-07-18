@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Route;
 //     return $request->user();
 // })->middleware('auth:sanctum');
 
-//Note: I am reading the documentation, and I used the methods that seemed important to me and checked how the methods were written in the Builder Class, I hope you don't get mad about it.
+//Note: I am reading the documentation, and I focused on the methods that seemed important to me and checked how the methods were written in the Builder Class, I hope you don't get mad about it.
 //But I wanted to understand as much as I can rather than covering and using methods on a very high level.
 
 
